@@ -11,7 +11,7 @@ Please see the guide at [https://bitcore.io/guides/full-node](https://bitcore.io
 To manually install all of the necessary components, you can run these commands:
 
 ```bash
-git clone https://github.com/wkibbler/bitcore-node-SIN.git
+git clone https://github.com/SINOVATEblockchain/bitcore-node-SIN.git
 cd bitcore-node-SIN
 npm install
 bitcore-node create mynode
